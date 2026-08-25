@@ -18,7 +18,7 @@ print(min(scores))
 
 #최고 점수:
 
-
+print(max(scores))
 
 #평균:
-
+print(sum(scores)/3)
